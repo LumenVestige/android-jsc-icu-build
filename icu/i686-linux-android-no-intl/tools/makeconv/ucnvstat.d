@@ -1,0 +1,28 @@
+ucnvstat.o ucnvstat.d : \
+  /mnt/extra/worksapce/github/jsc-android-buildscripts/build/target/icu/source/tools/makeconv/ucnvstat.c \
+  /mnt/extra/worksapce/github/jsc-android-buildscripts/build/target/icu/source/common/unicode/utypes.h \
+  /mnt/extra/worksapce/github/jsc-android-buildscripts/build/target/icu/source/common/unicode/umachine.h \
+  /mnt/extra/worksapce/github/jsc-android-buildscripts/build/target/icu/source/common/unicode/ptypes.h \
+  /mnt/extra/worksapce/github/jsc-android-buildscripts/build/target/icu/source/common/unicode/platform.h \
+  /mnt/extra/worksapce/github/jsc-android-buildscripts/build/target/icu/source/common/unicode/uconfig.h \
+  /mnt/extra/worksapce/github/jsc-android-buildscripts/build/target/icu/source/common/unicode/uvernum.h \
+  /mnt/extra/worksapce/github/jsc-android-buildscripts/build/target/icu/source/common/unicode/urename.h \
+  /mnt/extra/worksapce/github/jsc-android-buildscripts/build/target/icu/source/common/unicode/uversion.h \
+  /mnt/extra/worksapce/github/jsc-android-buildscripts/build/target/icu/source/common/unicode/utf.h \
+  /mnt/extra/worksapce/github/jsc-android-buildscripts/build/target/icu/source/common/unicode/utf8.h \
+  /mnt/extra/worksapce/github/jsc-android-buildscripts/build/target/icu/source/common/unicode/utf16.h \
+  /mnt/extra/worksapce/github/jsc-android-buildscripts/build/target/icu/source/common/unicode/utf_old.h \
+  /mnt/extra/worksapce/github/jsc-android-buildscripts/build/target/icu/source/common/unicode/ucnv.h \
+  /mnt/extra/worksapce/github/jsc-android-buildscripts/build/target/icu/source/common/unicode/ucnv_err.h \
+  /mnt/extra/worksapce/github/jsc-android-buildscripts/build/target/icu/source/common/unicode/uenum.h \
+  /mnt/extra/worksapce/github/jsc-android-buildscripts/build/target/icu/source/common/unicode/localpointer.h \
+  /mnt/extra/worksapce/github/jsc-android-buildscripts/build/target/icu/source/common/ucnv_bld.h \
+  /mnt/extra/worksapce/github/jsc-android-buildscripts/build/target/icu/source/common/ucnv_cnv.h \
+  /mnt/extra/worksapce/github/jsc-android-buildscripts/build/target/icu/source/common/unicode/uset.h \
+  /mnt/extra/worksapce/github/jsc-android-buildscripts/build/target/icu/source/common/unicode/uchar.h \
+  /mnt/extra/worksapce/github/jsc-android-buildscripts/build/target/icu/source/common/unicode/stringoptions.h \
+  /mnt/extra/worksapce/github/jsc-android-buildscripts/build/target/icu/source/common/unicode/ucpmap.h \
+  /mnt/extra/worksapce/github/jsc-android-buildscripts/build/target/icu/source/common/uset_imp.h \
+  /mnt/extra/worksapce/github/jsc-android-buildscripts/build/target/icu/source/common/ucnvmbcs.h \
+  /mnt/extra/worksapce/github/jsc-android-buildscripts/build/target/icu/source/common/ucnv_ext.h \
+  /mnt/extra/worksapce/github/jsc-android-buildscripts/build/target/icu/source/common/udataswp.h
