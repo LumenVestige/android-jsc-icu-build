@@ -6,6 +6,8 @@
 ## Android JSC ICU no-intel build
 + [icu](icu):icu 源码
 + bash [./start.sh](start.sh) 执行构建
++ icu版本：V64.2
++ jsc source code cmake build:[RNJsBridgeWithJSCSourceBuild](https://github.com/LumenVestige/RNJsBridgeWithJSCSourceBuild)
 + 编译产物：
   + [icu/aarch64-linux-android-no-intl/lib](icu/aarch64-linux-android-no-intl/lib)
   + [arm-linux-androideabi-no-intl/lib](icu/arm-linux-androideabi-no-intl/lib)
