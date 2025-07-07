@@ -1,7 +1,3 @@
-<p>
-<strong>👀</strong>
-  <img src="https://profile-counter.glitch.me/LumenVestige.android-jsc-icu-build/count.svg" alt="Visitor Count"  width="120"/>
-</p>
 
 ## Android JSC ICU no-intel build
 + [icu](icu):icu 源码
